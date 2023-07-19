@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-## 🖋 Blog Posts
+## 🖋 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [【筆記】React Design Pattern（下）：Props Getter、State Initialiser、State Reducer](https://medium.com/@cassiecoding/%E7%AD%86%E8%A8%98-react-design-pattern-%E4%B8%8B-props-getter-state-initialiser-state-reducer-54ae1b3d341a?source=rss-cabd0bfe92a------2)
 - [【筆記】React Design Pattern（上）：single custom hook、compound components、controlled props、multiple custom…](https://medium.com/@cassiecoding/%E7%AD%86%E8%A8%98-react-design-pattern-%E4%B8%8A-single-custom-hook-compound-components-controlled-props-multiple-custom-af83be90772e?source=rss-cabd0bfe92a------2)
