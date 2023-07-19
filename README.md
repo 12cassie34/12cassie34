@@ -74,5 +74,10 @@ Here are some ideas to get you started:
 
 <h2>🖋 Blog Post</h2>
 <!-- BLOG-POST-LIST:START -->
+- [【筆記】React Design Pattern（下）：Props Getter、State Initialiser、State Reducer](https://medium.com/@cassiecoding/%E7%AD%86%E8%A8%98-react-design-pattern-%E4%B8%8B-props-getter-state-initialiser-state-reducer-54ae1b3d341a?source=rss-cabd0bfe92a------2)
+- [【筆記】React Design Pattern（上）：single custom hook、compound components、controlled props、multiple custom…](https://medium.com/@cassiecoding/%E7%AD%86%E8%A8%98-react-design-pattern-%E4%B8%8A-single-custom-hook-compound-components-controlled-props-multiple-custom-af83be90772e?source=rss-cabd0bfe92a------2)
+- [[重點摘要 + 筆記]React Render 大全 — Part 4 React-Redux、React 未來改進的方向](https://medium.com/@cassiecoding/%E9%87%8D%E9%BB%9E%E6%91%98%E8%A6%81-%E7%AD%86%E8%A8%98-react-render-%E5%A4%A7%E5%85%A8-part-4-react-redux-react-%E6%9C%AA%E4%BE%86%E6%94%B9%E9%80%B2%E7%9A%84%E6%96%B9%E5%90%91-4d05ec361b3b?source=rss-cabd0bfe92a------2)
+- [[重點摘要 + 筆記]React Render 大全 — Part 3 context 與 render](https://medium.com/@cassiecoding/%E9%87%8D%E9%BB%9E%E6%91%98%E8%A6%81-%E7%AD%86%E8%A8%98-react-render-%E5%A4%A7%E5%85%A8-part-3-context-%E8%88%87-render-1099a2135071?source=rss-cabd0bfe92a------2)
+- [[重點摘要 + 筆記]React Render 大全 — Part 2](https://medium.com/@cassiecoding/%E9%87%8D%E9%BB%9E%E6%91%98%E8%A6%81-%E7%AD%86%E8%A8%98-react-render-%E5%A4%A7%E5%85%A8-part-2-3001ac047791?source=rss-cabd0bfe92a------2)
 <!-- BLOG-POST-LIST:END -->
 
