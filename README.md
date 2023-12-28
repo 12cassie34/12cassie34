@@ -72,7 +72,7 @@ Here are some ideas to get you started:
       </div>
     </li>
     <li>
-      🔍&nbsp;&nbsp;Currently I'm learning <a href="https://astro.build/" target="_blank" rel="noopener noreferrer">Astro</a> which is a all-in-one web framework for building fast, content-focused websites.
+      🔍&nbsp;&nbsp;Currently I'm learning <a href="https://pixijs.com/" target="_blank" rel="noopener noreferrer">Pixijs</a> as I'm fascinated by the Suika game and want to create your own!
     </li>
   </ul>
 </div>
