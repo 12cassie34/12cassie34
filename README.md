@@ -79,10 +79,10 @@ Here are some ideas to get you started:
 
 ## 🖋 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【英國工作去】英文篇：4 個練習軟體工程師英文的免費資源](https://medium.com/@cassiecoding/%E8%8B%B1%E5%9C%8B%E5%B7%A5%E4%BD%9C%E5%8E%BB-%E8%8B%B1%E6%96%87%E7%AF%87-4-%E5%80%8B%E7%B7%B4%E7%BF%92%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E8%8B%B1%E6%96%87%E7%9A%84%E5%85%8D%E8%B2%BB%E8%B3%87%E6%BA%90-81e3feabe43d?source=rss-cabd0bfe92a------2)
+- [【英國工作去】心態篇：我在英國找工作的五個重要心態（滿滿大雞湯）](https://medium.com/@cassiecoding/%E8%8B%B1%E5%9C%8B%E5%B7%A5%E4%BD%9C%E5%8E%BB-%E5%BF%83%E6%85%8B%E7%AF%87-%E6%88%91%E5%9C%A8%E8%8B%B1%E5%9C%8B%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%BA%94%E5%80%8B%E9%87%8D%E8%A6%81%E5%BF%83%E6%85%8B-%E6%BB%BF%E6%BB%BF%E5%A4%A7%E9%9B%9E%E6%B9%AF-7d3321d0524b?source=rss-cabd0bfe92a------2)
 - [React Design Pattern: Compound Component](https://medium.com/@cassiecoding/react-design-pattern-compound-component-9c32df41fd8d?source=rss-cabd0bfe92a------2)
 - [【筆記】React Design Pattern（下）：Props Getter、State Initialiser、State Reducer](https://medium.com/@cassiecoding/%E7%AD%86%E8%A8%98-react-design-pattern-%E4%B8%8B-props-getter-state-initialiser-state-reducer-54ae1b3d341a?source=rss-cabd0bfe92a------2)
 - [【筆記】React Design Pattern（上）：single custom hook、compound components、controlled props、multiple custom…](https://medium.com/@cassiecoding/%E7%AD%86%E8%A8%98-react-design-pattern-%E4%B8%8A-single-custom-hook-compound-components-controlled-props-multiple-custom-af83be90772e?source=rss-cabd0bfe92a------2)
-- [[重點摘要 + 筆記]React Render 大全 — Part 4 React-Redux、React 未來改進的方向](https://medium.com/@cassiecoding/%E9%87%8D%E9%BB%9E%E6%91%98%E8%A6%81-%E7%AD%86%E8%A8%98-react-render-%E5%A4%A7%E5%85%A8-part-4-react-redux-react-%E6%9C%AA%E4%BE%86%E6%94%B9%E9%80%B2%E7%9A%84%E6%96%B9%E5%90%91-4d05ec361b3b?source=rss-cabd0bfe92a------2)
-- [[重點摘要 + 筆記]React Render 大全 — Part 3 context 與 render](https://medium.com/@cassiecoding/%E9%87%8D%E9%BB%9E%E6%91%98%E8%A6%81-%E7%AD%86%E8%A8%98-react-render-%E5%A4%A7%E5%85%A8-part-3-context-%E8%88%87-render-1099a2135071?source=rss-cabd0bfe92a------2)
 <!-- BLOG-POST-LIST:END -->
 
